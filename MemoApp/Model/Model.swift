@@ -8,17 +8,17 @@
 
 import Foundation
 
-class Memo {
-    var content: String
-    var insertData: Date
-    
-    init(content: String) {
-        self.content = content
-        insertData = Date()
-    }
-    
-    static var dummyMemoList = [
-        Memo(content: "Lorem Ipsum"),
-        Memo(content: "Dolar Amet")
-    ]
-}
+//class Memo {
+//    var content: String
+//    var insertData: Date
+//    
+//    init(content: String) {
+//        self.content = content
+//        insertData = Date()
+//    }
+//    
+//    static var dummyMemoList = [
+//        Memo(content: "Lorem Ipsum"),
+//        Memo(content: "Dolar Amet")
+//    ]
+//}

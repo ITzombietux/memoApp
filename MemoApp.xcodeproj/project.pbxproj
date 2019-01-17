@@ -16,6 +16,7 @@
 		93B1900C21EC6BB5006DA8DC /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B1900B21EC6BB5006DA8DC /* MemoListTableViewController.swift */; };
 		93B1900E21EC856C006DA8DC /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B1900D21EC856C006DA8DC /* ComposeViewController.swift */; };
 		93B1901021ECA69C006DA8DC /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B1900F21ECA69C006DA8DC /* DetailViewController.swift */; };
+		93B1909021F06B94006DA8DC /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B1908F21F06B94006DA8DC /* DataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		93B1900B21EC6BB5006DA8DC /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
 		93B1900D21EC856C006DA8DC /* ComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
 		93B1900F21ECA69C006DA8DC /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		93B1908F21F06B94006DA8DC /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				93B1900B21EC6BB5006DA8DC /* MemoListTableViewController.swift */,
 				93B1900D21EC856C006DA8DC /* ComposeViewController.swift */,
 				93B1900F21ECA69C006DA8DC /* DetailViewController.swift */,
+				93B1908F21F06B94006DA8DC /* DataManager.swift */,
 			);
 			path = MemoApp;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				93B1900E21EC856C006DA8DC /* ComposeViewController.swift in Sources */,
 				93B1900A21EC6A83006DA8DC /* Model.swift in Sources */,
 				93B18FFC21EC6455006DA8DC /* MemoApp.xcdatamodeld in Sources */,
+				93B1909021F06B94006DA8DC /* DataManager.swift in Sources */,
 				93B1901021ECA69C006DA8DC /* DetailViewController.swift in Sources */,
 				93B18FF421EC6455006DA8DC /* AppDelegate.swift in Sources */,
 				93B1900C21EC6BB5006DA8DC /* MemoListTableViewController.swift in Sources */,
